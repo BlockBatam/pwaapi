@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Grey lourie","category":"Yellow"},
+{"id":2,"name":"American woodcock","category":"Red"},
+{"id":3,"name":"White-cheeked pintail","category":"Maroon"},
+{"id":4,"name":"Tawny frogmouth","category":"Orange"},
+{"id":5,"name":"Arctic tern","category":"Puce"},
+{"id":6,"name":"Red-legged pademelon","category":"Red"},
+{"id":7,"name":"Pigeon, feral rock","category":"Indigo"},
+{"id":8,"name":"Otter, north american river","category":"Violet"},
+{"id":9,"name":"Red-shouldered glossy starling","category":"Purple"},
+{"id":10,"name":"Southern black-backed gull","category":"Blue"},
+{"id":11,"name":"Blue peacock","category":"Blue"},
+{"id":12,"name":"Bottle-nose dolphin","category":"Turquoise"},
+{"id":13,"name":"Brown hyena","category":"Purple"},
+{"id":14,"name":"Sloth, hoffman's","category":"Goldenrod"},
+{"id":15,"name":"Pintail, bahama","category":"Pink"},
+{"id":16,"name":"Blue-tongued lizard","category":"Purple"},
+{"id":17,"name":"Goose, cape barren","category":"Yellow"},
+{"id":18,"name":"Mouse, four-striped grass","category":"Puce"},
+{"id":19,"name":"Cobra, egyptian","category":"Turquoise"},
+{"id":20,"name":"Blackbuck","category":"Khaki"}
+]
+}
